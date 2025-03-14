@@ -1,4 +1,4 @@
-# Disaster-Prediction-from-Tweets-Using-Deep-Learning-with-BERT
+# Disaster Prediction from Tweets Using Deep Learning with BERT
 
 ## Project Description
 This project focuses on classifying tweets as disaster-related or not using **BERT (Bidirectional Encoder Representations from Transformers)**, a state-of-the-art deep learning model for Natural Language Processing (NLP). The goal is to build a scalable system that can analyze real-time tweets to identify potential disasters, enabling faster response and decision-making.
