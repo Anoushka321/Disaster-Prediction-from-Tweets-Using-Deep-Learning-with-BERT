@@ -42,20 +42,20 @@ BERT outperforms Naïve Bayes by 11% in F1-score, making it the final choice.
 -----
 
 ## Programming Languages & Libraries
--- **Python –** Primary language for data processing & modeling
--- **Pandas & NumPy –** Data manipulation & numerical computation
--- **Matplotlib & Seaborn –** Data visualization & EDA
--- **Scikit-learn –** Machine learning (Naïve Bayes, evaluation metrics)
--- **NLTK & SpaCy –** Text preprocessing & tokenization
--- **Transformers (Hugging Face) –** BERT-based deep learning model
--- **PyTorch / TensorFlow –** Model training & fine-tuning
+- **Python –** Primary language for data processing & modeling
+- **Pandas & NumPy –** Data manipulation & numerical computation
+- **Matplotlib & Seaborn –** Data visualization & EDA
+- **Scikit-learn –** Machine learning (Naïve Bayes, evaluation metrics)
+- **NLTK & SpaCy –** Text preprocessing & tokenization
+- **Transformers (Hugging Face) –** BERT-based deep learning model
+- **PyTorch / TensorFlow –** Model training & fine-tuning
 
 ## Development & Deployment
--- **Jupyter Notebook –** Exploratory Data Analysis (EDA) & model experiments
--- **VS Code –** Primary development environment
--- **Git & GitHub –** Version control & project repository
--- **Docker (Future Scope) –** Containerization for deployment
--- **FastAPI/Flask (Future Scope) –** API development for model serving
+- **Jupyter Notebook –** Exploratory Data Analysis (EDA) & model experiments
+- **VS Code –** Primary development environment
+- **Git & GitHub –** Version control & project repository
+- **Docker (Future Scope) –** Containerization for deployment
+- **FastAPI/Flask (Future Scope) –** API development for model serving
 
 ----
 
